@@ -2,7 +2,10 @@ Revision history for Perl extension WWW-256locksMaker
 
 {{$NEXT}}
 
-0 2013-05-18T05:23:02Z
+0.03 2013-05-18T05:25:42Z
+    - version increment
+
+0.02 2013-05-18T05:23:02Z
     - add URI.pm as dependency
 
 0.01 2013-05-17T01:30:39Z

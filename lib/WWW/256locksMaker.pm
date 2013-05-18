@@ -3,7 +3,7 @@ use 5.008005;
 use strict;
 use warnings;
 
-our $VERSION = "y";
+our $VERSION = "0.03";
 our $ENDPOINT_URL = 'http://maker-256locks.herokuapp.com/name';
 
 use URI;
